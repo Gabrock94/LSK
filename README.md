@@ -1,0 +1,2 @@
+# LSK
+Linux Swype Keyboard
